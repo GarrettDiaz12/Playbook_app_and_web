@@ -1,0 +1,7 @@
+---
+mysql_root_password: "root"
+app_user: "noediaz"
+http_host: "bdiaz.com"
+http_conf: "bdiaz.conf"
+http_port: "80"
+disable_default: true
